@@ -68,10 +68,10 @@ function sonlar(){
  } else if ( x > 2 ){
      alert(" musbat son");
  }
- else if ( ){
-     alert(" c tartib raqam")
+ else if (2 * x ){
+     alert(" ko'paytirish")
  } else{
-    alert("berilgan  sonlar orasida 0'zaro sonlar yo'q");
+    alert("-3 * x");
  }
  }
  sonlar();
