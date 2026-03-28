@@ -18,3 +18,13 @@ if (a > 0) {
 } else if ( a < 0) {
      alert("manfiy ++")
 }
+if (a > 0) {
+    alert("musbat ++")
+} else if ( a < 0) {
+     alert("manfiy ++")
+}
+if (a > 0) {
+    alert("musbat ++")
+} else if ( a < 0) {
+     alert("manfiy ++")
+}
