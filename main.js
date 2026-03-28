@@ -63,15 +63,11 @@
 // 5-masala
 let x = +prompt("x sonini kiriting");
 function sonlar(){
- if (x < -2) {
-    alert(" manfiy son");
- } else if ( x > 2 ){
-     alert(" musbat son");
- }
- else if (2 * x ){
-     alert(" ko'paytirish")
+ if (x < -2 || x > 2) {
+    alert( sonlar = 2 * x);
  } else{
-    alert("");
+     alert(sonlar = -3 * x);
  }
+ 
  }
  sonlar();
