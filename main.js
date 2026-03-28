@@ -30,14 +30,14 @@
 // }
 
 // 3-masala
-let a = +prompt("a sonini kiriting");
-let b = +prompt("b sonini kiriting");
-let c = +prompt("c sonini kiriting");
- function sum(){
-    kichik = Math.min( a, b, c) 
-    katta = Math.max( a, b, c) 
+// let a = +prompt("a sonini kiriting");
+// let b = +prompt("b sonini kiriting");
+// let c = +prompt("c sonini kiriting");
+//  function sum(){
+//     kichik = Math.min( a, b, c) 
+//     katta = Math.max( a, b, c) 
     
-     console.log(kichik, katta);
+//      console.log(kichik, katta);
      
- }
- sum()
+//  }
+//  sum()
