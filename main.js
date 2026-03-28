@@ -61,3 +61,4 @@
 //  sonlar();
 
 // 5-masala
+let x = +prompt("x sonini kiriting");
