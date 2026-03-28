@@ -1,6 +1,9 @@
-let a = +prompt("a sonini kiriting");
+let a = 5;
 if (son > 0) {
-    alert ("son + 1");
+    SO = son + 1;
 } else {
-    return("son - 1")
+    SON = son - 2 ;
+   
+    
 }
+ console.log(son);
