@@ -28,4 +28,4 @@ if (c > 0) {
 } else if ( c < 0) {
      alert("manfiy ++")
 }
-console.log(a, b, c);
+
