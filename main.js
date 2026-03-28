@@ -43,19 +43,19 @@
 //  sum()
 
 // 4-masala
-let a = +prompt("a sonini kiriting");
- let b = +prompt("b sonini kiriting");
- let c = +prompt("c sonini kiriting");
- function sonlar(){
- if (a === b) {
-    alert(" a tartib raqam");
- } else if ( a === c ){
-     alert(" b tartib raqam");
- }
- else if ( b === c ){
-     alert(" c tartib raqam")
- } else{
-    alert("berilgan  sonlar orasida 0'zaro sonlar yo'q");
- }
- }
- sonlar();
+// let a = +prompt("a sonini kiriting");
+//  let b = +prompt("b sonini kiriting");
+//  let c = +prompt("c sonini kiriting");
+//  function sonlar(){
+//  if (a === b) {
+//     alert(" a tartib raqam");
+//  } else if ( a === c ){
+//      alert(" b tartib raqam");
+//  }
+//  else if ( b === c ){
+//      alert(" c tartib raqam")
+//  } else{
+//     alert("berilgan  sonlar orasida 0'zaro sonlar yo'q");
+//  }
+//  }
+//  sonlar();
