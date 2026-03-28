@@ -34,8 +34,10 @@ let a = +prompt("a sonini kiriting");
 let b = +prompt("b sonini kiriting");
 let c = +prompt("c sonini kiriting");
  function sum(){
-    katta = Math.min( a, b, c) 
-    kichik = Math.max( a, b, c) 
-     const h = (a + b + c ) - (katta + kichik);
+    kichik = Math.min( a, b, c) 
+    katta = Math.max( a, b, c) 
+    
+     console.log(kichik, katta);
      
  }
+ sum()
