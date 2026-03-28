@@ -62,3 +62,16 @@
 
 // 5-masala
 let x = +prompt("x sonini kiriting");
+function sonlar(){
+ if (a === b) {
+    alert(" a tartib raqam");
+ } else if ( a === c ){
+     alert(" b tartib raqam");
+ }
+ else if ( b === c ){
+     alert(" c tartib raqam")
+ } else{
+    alert("berilgan  sonlar orasida 0'zaro sonlar yo'q");
+ }
+ }
+ sonlar();
