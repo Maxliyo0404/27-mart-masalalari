@@ -71,7 +71,7 @@ function sonlar(){
  else if (2 * x ){
      alert(" ko'paytirish")
  } else{
-    alert("-3 * x");
+    alert("");
  }
  }
  sonlar();
