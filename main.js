@@ -48,6 +48,10 @@ let a = +prompt("a sonini kiriting");
  let c = +prompt("c sonini kiriting");
  if (a === b) {
     alert("tartib raqam")
- } else {
-    
+ } else if ( a === c ){
+     alert("tartib raqam")
  }
+ else if ( b === c ){
+     alert("tartib raqam")
+ }
+ 
