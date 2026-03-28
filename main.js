@@ -61,13 +61,13 @@
 //  sonlar();
 
 // 5-masala
-let x = +prompt("x sonini kiriting");
-function sonlar(){
- if (x < -2 || x > 2) {
-    alert( 2 * x);
- } else{
-     alert(-3 * x);
- }
+// let x = +prompt("x sonini kiriting");
+// function sonlar(){
+//  if (x < -2 || x > 2) {
+//     alert( 2 * x);
+//  } else{
+//      alert(-3 * x);
+//  }
  
- }
- sonlar();
+//  }
+//  sonlar();
