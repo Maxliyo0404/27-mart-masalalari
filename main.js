@@ -64,9 +64,9 @@
 let x = +prompt("x sonini kiriting");
 function sonlar(){
  if (x < -2 || x > 2) {
-    alert( sonlar = 2 * x);
+    alert( 2 * x);
  } else{
-     alert(sonlar = -3 * x);
+     alert(-3 * x);
  }
  
  }
