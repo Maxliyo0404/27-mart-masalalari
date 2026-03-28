@@ -8,3 +8,4 @@
 //  console.log(son);
 
 // 2-masala
+let a = +prompt("a sonini kiriting");
