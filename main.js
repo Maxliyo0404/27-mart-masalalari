@@ -48,14 +48,14 @@ let a = +prompt("a sonini kiriting");
  let c = +prompt("c sonini kiriting");
  function sonlar(){
  if (a === b) {
-    alert("tartib raqam")
+    alert(" a tartib raqam");
  } else if ( a === c ){
-     alert("tartib raqam")
+     alert(" b tartib raqam");
  }
  else if ( b === c ){
-     alert("tartib raqam")
+     alert(" c tartib raqam")
  } else{
-    alert("berilgan ")
+    alert("berilgan  sonlar orasida 0'zaro sonlar yo'q");
  }
  }
  sonlar();
