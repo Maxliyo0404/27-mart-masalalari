@@ -46,6 +46,7 @@
 let a = +prompt("a sonini kiriting");
  let b = +prompt("b sonini kiriting");
  let c = +prompt("c sonini kiriting");
+ function sonlar(){
  if (a === b) {
     alert("tartib raqam")
  } else if ( a === c ){
@@ -53,5 +54,8 @@ let a = +prompt("a sonini kiriting");
  }
  else if ( b === c ){
      alert("tartib raqam")
+ } else{
+    alert("berilgan ")
  }
- 
+ }
+ sonlar();
