@@ -1,8 +1,9 @@
-let son = 5;
+
+let son = 4;
 if (son > 0) {
-    SO = son + 1;
+    son = son + 1;
 } else {
-    SON = son - 2 ;
+    son = son - 2 ;
    
     
 }
