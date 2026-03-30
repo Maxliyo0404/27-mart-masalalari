@@ -73,4 +73,8 @@
 //  sonlar();
 // 6-masala
 let son = +prompt("son kiriting");
-
+if (son % 2 === 0) {
+    alert("manfiy son")
+} else {
+    
+}
