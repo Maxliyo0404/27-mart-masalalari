@@ -72,3 +72,5 @@
 //  }
 //  sonlar();
 // 6-masala
+let son = +prompt("son kiriting");
+
