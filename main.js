@@ -77,4 +77,6 @@ if (son % 2 !== 0) {
     alert("manfiy son")
 } else if ( son % 2 === 0) {
     alert("musbat toq");
+}else if(son === 0){
+    alert("nolga teng");
 }
