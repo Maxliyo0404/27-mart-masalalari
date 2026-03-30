@@ -138,3 +138,6 @@
 // haftakunlari(3);
 //  uyga vazifa
 
+// 1-masala
+let son = +prompt("son kiriting");
+
