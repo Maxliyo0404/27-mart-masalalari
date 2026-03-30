@@ -151,3 +151,6 @@ if (son > 0 ) {
 } else if (son < 0) {
      alert(son = son - 2);
 }
+ else if (son === 0) {
+     alert(10);
+}
