@@ -80,3 +80,9 @@ if (son % 2 !== 0) {
 }else if(son === 0){
     alert("nolga teng");
 }
+else if(son % -2 === 0){
+    alert("manfiy juft");
+}
+else if(son % -1 !== 0){
+    alert("manfiy toq");
+}
