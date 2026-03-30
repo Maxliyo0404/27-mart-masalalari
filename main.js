@@ -155,32 +155,32 @@
 //      alert(10);
 // }
 // 3-masala
-let a = +prompt("a kiriting");
-let b = +prompt("b kiriting");
-let c = +prompt("c kiriting");
-const result = 0 ;
-let manfiy = 0
-let musbat = 0
+// let a = +prompt("a kiriting");
+// let b = +prompt("b kiriting");
+// let c = +prompt("c kiriting");
+// const result = 0 ;
+// let manfiy = 0
+// let musbat = 0
 
 
-if(a > 0){
-    musbat++
-}
-if(a < 0){
-    manfiy++
-}
-if(b > 0){
-    musbat++
-}
-if(b < 0){
-    manfiy++
-}
-if(c > 0){
-    musbat++
-}
-if(c < 0){
-    manfiy++
-}
-console.log("musbat sonlar soni","manfiy soni" , musbat, manfiy);
+// if(a > 0){
+//     musbat++
+// }
+// if(a < 0){
+//     manfiy++
+// }
+// if(b > 0){
+//     musbat++
+// }
+// if(b < 0){
+//     manfiy++
+// }
+// if(c > 0){
+//     musbat++
+// }
+// if(c < 0){
+//     manfiy++
+// }
+// console.log("musbat sonlar soni","manfiy soni" , musbat, manfiy);
 
     
