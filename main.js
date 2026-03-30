@@ -86,3 +86,4 @@
 // else if(son % -1 !== 0){
 //     alert("manfiy toq");
 // }
+//  7-masala
