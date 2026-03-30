@@ -189,11 +189,11 @@
 // let b = +prompt("b kiriting");
 // console.log( Math.max(a,b));
 //  5-masala
-let a = +prompt("a kiriting");
-let b = +prompt("b kiriting");
-let kichik = Math.min(a, b);
-if (kichik === a && kichik === b) {
-    alert("tartib raqam :1")
-} else {
-    alert("tartib raqam")
-}
+// let a = +prompt("a kiriting");
+// let b = +prompt("b kiriting");
+// let kichik = Math.min(a, b);
+// if (kichik === a ) {
+//     alert("tartib raqam :1")
+// } else {
+//     alert("tartib raqam")
+// }
