@@ -197,3 +197,5 @@
 // } else {
 //     alert("tartib raqam")
 // }
+
+// 6-masala
