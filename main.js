@@ -124,7 +124,17 @@
 let a = 10;
 let b = 4;
 let amal = +prompt("son kiriting 1 dan 4 gacha bo'gan son kiriitng");
-
+if (amal === 1) {
+    return a + b;
+} else if(amal === 2) {
+    return a - b ;
+}
+ else if(amal === 2) {
+    return a - b ;
+}
+} else if(amal === 2) {
+    return a - b ;
+}
 // haftakunlari(3);
 //  uyga vazifa
 
