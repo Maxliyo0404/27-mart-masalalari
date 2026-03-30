@@ -88,7 +88,7 @@
 // }
 //  7-masala
 let son = +prompt("son kiriting");
-function hafta kunlari(s0n) {
+function haftakunlari(s0n) {
     switch (son){
         case 1 :
         console.log("Dushanba");
@@ -100,19 +100,22 @@ function hafta kunlari(s0n) {
         console.log("Chorshanba");
         break ;
         case 4:
-        console.log("Seshanba");
+        console.log("Payshanba");
         break ;
-        case 3:
-        console.log("Seshanba");
+        case 5:
+        console.log("Juma");
         break ;
-        case 3:
-        console.log("Seshanba");
+        case 6:
+        console.log("Shanba");
         break ;
-        case 3:
-        console.log("Seshanba");
+        case 7:
+        console.log("Yakshanba");
         break ;
-        case 3:
+        default:
+            console.log("xato");
+            
 
         
     }
 }
+haftakunlari(3);
