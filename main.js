@@ -140,4 +140,8 @@
 
 // 1-masala
 let son = +prompt("son kiriting");
+if(son > 0){
+    son = son + 1;
+}
+console.log(son);
 
