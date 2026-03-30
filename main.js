@@ -119,3 +119,4 @@
 //     }
 // }
 // haftakunlari(3);
+//  uyga vazifa
