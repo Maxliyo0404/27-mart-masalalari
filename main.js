@@ -212,6 +212,6 @@
 //  let kichik = Math.min(a, b);
 //  console.log(katta, kichik);
 // 8-masala
- let a = +prompt("a kiriting");
- let b = +prompt("b kiriting");
- let result = ( a !=== b) ? (a + b)
+//  let a = +prompt("a kiriting");
+//  let b = +prompt("b kiriting");
+//  let result = ( a !=== b) ? (a + b)
