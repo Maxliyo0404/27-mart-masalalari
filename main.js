@@ -88,3 +88,13 @@
 // }
 //  7-masala
 let son = +prompt("son kiriting");
+function hafta kunlari(s0n) {
+    switch (son){
+        case 1 :
+        console.log("Dushanba");
+        break ;
+        case 2:
+
+        
+    }
+}
