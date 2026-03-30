@@ -87,3 +87,4 @@
 //     alert("manfiy toq");
 // }
 //  7-masala
+let son = +prompt("son kiriting");
