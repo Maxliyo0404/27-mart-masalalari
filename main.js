@@ -73,17 +73,17 @@
 //  sonlar();
 // 6-masala
 // let son = +prompt("son kiriting");
-// if (son % 2 !== 0) {
+// if ( son > 0 && son % 2 !== 0) {
 //     alert("manfiy son")
-// } else if ( son % 2 === 0) {
+// } else if (son > 0 &&  son % 2 === 0) {
 //     alert("musbat toq");
-// }else if(son === 0){
+// }else if( son === 0){
 //     alert("nolga teng");
 // }
-// else if(son % -2 === 0){
+// else if( son > 0 && son % 2 === 0){
 //     alert("manfiy juft");
 // }
-// else if(son % -1 !== 0){
+// else if( son < 0 && son % 2 !== 0){
 //     alert("manfiy toq");
 // }
 //  7-masala
