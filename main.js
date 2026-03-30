@@ -120,6 +120,10 @@
 // }
 
 // case 2
+
+let a = 10;
+let b = 4;
+
 // haftakunlari(3);
 //  uyga vazifa
 
