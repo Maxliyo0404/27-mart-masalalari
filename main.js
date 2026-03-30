@@ -187,4 +187,4 @@
 // 4-masala
 let a = +prompt("a kiriting");
 let b = +prompt("b kiriting");
-console.log( Math.max);
+console.log( Math.max(a,b));
