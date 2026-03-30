@@ -94,7 +94,10 @@ function hafta kunlari(s0n) {
         console.log("Dushanba");
         break ;
         case 2:
-
+        console.log("Seshanba");
+        break ;
+        case 3:
+            
         
     }
 }
