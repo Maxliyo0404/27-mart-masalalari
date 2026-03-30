@@ -118,6 +118,8 @@
         
 //     }
 // }
+
+// case 2
 // haftakunlari(3);
 //  uyga vazifa
 
