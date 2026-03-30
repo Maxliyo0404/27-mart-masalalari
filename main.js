@@ -123,6 +123,7 @@
 
 let a = 10;
 let b = 4;
+let amal = +prompt("son kiriting 1 dan 4 gacha bo'gan son kiriitng");
 
 // haftakunlari(3);
 //  uyga vazifa
